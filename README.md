@@ -1,2 +1,2 @@
 # RoomLiveDataDemo
-Google MVVVM Architecture Sample
+Google MVVM Architecture Sample
